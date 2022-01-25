@@ -1,2 +1,2 @@
 # Pomodoro
-**First project using Tkinter GUI
+* First project using Tkinter GUI
